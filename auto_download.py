@@ -32,7 +32,7 @@ status = '\r[page {:0>3}] [image {:0>2}|24] [{:.<24}]'.format
 
 all_wallpapers = []
 counter = 0
-path_to_folder = '/home/dmitriy/Desktop/Entertainments/Wallpapers/auto_download/'
+path_to_folder = 'path_to_save_files'
 
 # Clear source folder
 c = 'rm ' + path_to_folder + '*-new_wall.*'
